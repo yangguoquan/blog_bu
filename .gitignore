@@ -1,0 +1,13 @@
+.DS_Store
+.git
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.deploy_git
+/HEXO/*
+!/HEXO/SOURCE
+!/HEXO/_config.yml
+!/HEXO/yilia/_config.yml

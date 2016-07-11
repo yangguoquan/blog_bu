@@ -8,7 +8,7 @@ subtitle: 要敢于做自己能力之外的事情
 description:
 author: Yxx
 language: zh-Hans
-timezone: 
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -68,7 +68,7 @@ theme: yilia
 
 
 # Disqus  disqus评论,  与多说类似, 国内一般使用多说
-# disqus_shortname: 
+# disqus_shortname:
 duoshuo_shortname: yxxmark
 
 # Deployment

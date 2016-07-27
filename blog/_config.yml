@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yxx Mark
-subtitle: 要敢于做自己能力之外的事情
+title: Hexo
+subtitle:
 description:
-author: Yxx
-language: zh-Hans
+author: Yxx's Garden
+language:
 timezone:
 
 # URL
@@ -57,23 +57,15 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 5
+per_page: 10
 pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: next
 theme: yilia
-
-
-# Disqus  disqus评论,  与多说类似, 国内一般使用多说
-# disqus_shortname:
-duoshuo_shortname: yxxmark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: git@github.com:yangguoquan/yangguoquan.github.io.git
-  branch: master
+  type:

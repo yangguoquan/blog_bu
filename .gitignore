@@ -7,7 +7,7 @@ node_modules/
 public/
 .deploy*/
 .deploy_git
-/HEXO/*
+/blog/*
 !/HEXO/SOURCE
 !/HEXO/_config.yml
 !/HEXO/yilia/_config.yml

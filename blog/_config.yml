@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: Yxx's Garden
-language:
-timezone:
+title: Yxx's Garden
+subtitle: 凡是让你痛苦的，都是让你成长的
+description: yxx's blog
+author: Guoquan.yang
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

@@ -73,5 +73,5 @@ duoshuo_shortname: yxxmark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:yangguoquan/yangguoquan.github.io.git
+  repository: https://github.com/yangguoquan/yangguoquan.github.io.git
   branch: master

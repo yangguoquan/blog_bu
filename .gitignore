@@ -14,11 +14,7 @@ themes/next/*.iml
 themes/next/node_modules/
 
 # Ignore unused verdors' files
-themes/next/source/vendors/fancybox/*
+themes/next/source/*
 !themes/next/source/vendors/fancybox/source/
-
-themes/next/source/vendors/font-awesome/less/
 themes/next/source/vendors/font-awesome/scss/
-
-themes/next/source/vendors/ua-parser-js/*
 !themes/next/source/vendors/ua-parser-js/dist/

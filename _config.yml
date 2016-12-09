@@ -90,7 +90,8 @@ exclude_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/yangguoquan/yangguoquan.github.io.git
+  #repository: https://github.com/yangguoquan/yangguoquan.github.io.git
+  repository: https://git.coding.net/Yhoney/Yhoney.git
   branch: master
 
 # smart_menu
